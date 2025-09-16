@@ -4,9 +4,13 @@ A arte moderna define-se pela ruptura com as tradições da arte acadêmica, bus
 
 ## Recursos da arte
 Cubismo: Utilizava formas geométricas, fragmentação e multiplicidade de perspectivas para representar objetos e figuras em um mesmo plano, como visto nas obras de Pablo Picasso.
+
 Expressionismo: Focava na expressão intensa de emoções e sentimentos, muitas vezes distorcendo a realidade com o uso de cores fortes e vibrantes.
+
 Surrealismo: Explorado o inconsciente, os sonhos e o absurdo, criando cenas ilógicas e fantásticas influenciadas pela psicanálise. Salvador Dalí é um de seus maiores representantes.
+
 Futurismo: Exaltava a velocidade, a tecnologia e a vida moderna, com obras que capturavam o movimento e a energia da era industrial.
+
 Dadaísmo: Movimento antiarte, que se valia da ironia e do nonsense para criticar a sociedade burguesa e os valores estabelecidos, especialmente após a Primeira Guerra Mundial. 
 
 ## Tecnologias utilizadas
